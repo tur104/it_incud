@@ -1,3 +1,6 @@
+body{
+   background: rgb(34, 20, 20);
+}
 .injected-text {
    margin-bottom: -25px;
    text-align: center;
