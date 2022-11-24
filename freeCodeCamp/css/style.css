@@ -1,5 +1,7 @@
 body{
    background: rgb(34, 20, 20);
+   color: green;
+   font-family: monospace;
 }
 .injected-text {
    margin-bottom: -25px;
